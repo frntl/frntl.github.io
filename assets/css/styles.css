@@ -1,0 +1,26 @@
+
+body {
+  margin:0 auto;
+  max-width:50vw;
+  font-family: "Georgia", serif;
+  font-size:1.3rem;
+  line-height: 1.5rem;
+  padding: 4rem 1rem;
+  text-align:center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  overflow: hidden;
+  background-color: #F4F4F4;
+
+}
+
+    a {
+      color: rgba(255, 125, 125, 1);;
+      text-decoration: none;
+    }
+    a:hover {
+      color: #e02027;;
+    }
